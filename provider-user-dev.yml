@@ -1,5 +1,5 @@
 server:
-  port: 8766
+  port: 8764
 
 
 eureka:
@@ -10,6 +10,6 @@ eureka:
 
 1904b:
   api-a:
-    hi: hi,my name is 文杰许
+    hi: hi,my name is 111
   api-b:
-    hello: hello,一波萨达 si my name
+    hello: hello,111 si my name

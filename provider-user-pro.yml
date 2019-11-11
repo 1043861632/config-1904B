@@ -1,5 +1,5 @@
 server:
-  port: 8766
+  port: 8764
 
 
 eureka:
@@ -8,8 +8,8 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 
-1904b:
+1905b:
   api-a:
     hi: hi,my name is lalall
   api-b:
-    hello: hellomÀ²À²À²À² si my name
+    hello: hellomï¼Œ121213si my name
